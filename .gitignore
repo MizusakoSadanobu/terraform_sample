@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+.terraform-version
+terraform.tfstate
+terraform.tfstate.backup
